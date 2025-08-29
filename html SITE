@@ -1,0 +1,104 @@
+ <!DOCTYPE html>
+ <html lang="pt-br">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siteeeeeeeeeee</title>
+
+    <style>
+
+        body{
+
+            background-color: rgb(240, 87, 87);
+        }
+
+        .cabecalho {
+
+            background-color: rgb(0, 0, 0);
+            text-align: center;
+        }
+
+        .imagem{
+
+            text-align: center;
+        }
+
+        a{
+            margin: 150px 0;
+           
+        }
+
+    </style>
+
+ </head>
+ <body>
+    
+    
+
+    <div class=cabecalho> <!--tag abertura-->
+
+    <h1 style="color: rgb(255, 0, 0); font-style: italic;"> <!--tag abertura-->
+
+        Error 404
+
+    </h1> <!--tag fechamento-->
+
+    </div>
+
+    <div>
+
+        <h2>
+
+            introdução
+
+        </h2>
+
+        <p>
+
+            O erro 404, ou "Não Encontrado" (Not Found), é um código de status HTTP que indica que o servidor não conseguiu encontrar o recurso (página ou arquivo) que você solicitou, pois ele foi movido, excluído, o link está incorreto ou o URL foi digitado de forma errada. Para o utilizador, isto significa que a página não existe, enquanto que para o proprietário do site, é um link quebrado
+
+        </p>
+
+    </div>
+
+    <div>
+
+        <h2>
+
+            sobre mim
+            
+        </h2>
+
+        <p>
+
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore magni corporis omnis nobis, odit similique nihil esse illum temporibus? Ipsum mollitia ut odit eveniet minima tempora asperiores est similique illum.
+
+        </p>
+
+        <div class="imagem">
+
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWcdX_dm9cLMff6yLZrbu-ofWW7fwP1kVGaQ&s" alt="" width="950" height="950">
+
+            
+
+        </div>
+
+    </div>
+
+    <div class="link">
+
+        <h2>
+
+            projetos
+
+        </h2>
+
+        <a href="https://github.com/login">github</a>
+
+        <a href="https://kahoot.com/">sla</a>
+
+    </div>
+
+
+ </body>
+ </html>
